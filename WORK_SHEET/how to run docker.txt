@@ -1,0 +1,4 @@
+1. Ketik command `docker build --tag miniprojectbedev .` untuk build image docker nya
+2. Ketik command `docker-compose up` (jika ingin membuat dan menjalankan service container nya)
+3. Ketik command `docker-compose stop` (jika ingin mematikan service container nya)
+4. Ketik command `docker-compose start` (jika ingin menjalankan service container nya)

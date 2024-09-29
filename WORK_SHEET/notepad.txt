@@ -17,7 +17,7 @@ https://docs.vultr.com/introduction-to-common-table-expressions-ctes-in-postgres
 https://robert-keller22.medium.com/upload-and-download-images-to-a-postgres-db-node-js-92e43f232ae4
 
 # Tutorial Docker
-https://www.youtube.com/watch?v=KrcHmVzmFN8&list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao&index=1
+https://www.youtube.com/watch?v=KrcHmVzmFN8&list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao
 https://docs.docker.com/compose/how-tos/environment-variables/envvars-precedence/
 
 # Create script for initial syncing database
