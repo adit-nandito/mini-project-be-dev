@@ -1,0 +1,24 @@
+# Sequelize
+https://sequelize.org/docs/v6/other-topics/migrations/
+https://sequelize.org/docs/v6/core-concepts/assocs/#one-to-one-relationships
+https://sequelize.org/docs/v6/core-concepts/assocs/#one-to-many-relationships
+https://sequelize.org/docs/v6/core-concepts/assocs/
+https://sequelize.org/docs/v6/core-concepts/getters-setters-virtuals/
+https://sequelize.org/docs/v6/other-topics/transactions/
+https://github.com/sequelize/cli/blob/main/docs/FAQ.md#i-am-getting-an-error-when-attempting-to-create-a-model-with-an-enum-type
+
+# PostgreSQL
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-case/
+https://www.postgresqltutorial.com/postgresql-aggregate-functions/postgresql-string_agg-function/
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-coalesce/
+https://docs.vultr.com/introduction-to-common-table-expressions-ctes-in-postgresql
+
+# Multer
+https://robert-keller22.medium.com/upload-and-download-images-to-a-postgres-db-node-js-92e43f232ae4
+
+# Tutorial Docker
+https://www.youtube.com/watch?v=KrcHmVzmFN8&list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao&index=1
+https://docs.docker.com/compose/how-tos/environment-variables/envvars-precedence/
+
+# Create script for initial syncing database
+https://stackoverflow.com/questions/43064719/javascript-asynchronous-method-in-while-loop
